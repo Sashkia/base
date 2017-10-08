@@ -1,0 +1,11 @@
+com/common/config/SpringSecurity.class
+com/common/service/UserServiceImpl.class
+com/common/config/SecurityConfig.class
+com/common/dao/entity/UserDAO.class
+com/common/service/UserService.class
+com/common/controller/BasicController.class
+com/common/config/Config.class
+com/common/dao/security/User.class
+com/common/config/WebConfig.class
+com/common/config/AppInit.class
+com/common/dao/entity/UserDAOImpl.class
